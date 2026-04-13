@@ -1,32 +1,35 @@
-## Konstantinos Bourantas — Senior Software Engineer
+# Konstantinos Bourantas
 
-Backend systems and cloud infrastructure, based in Athens, Greece.
-5+ years building scalable, highly available services in production.
+I build backend systems and spend most of my time close to the system itself.
 
-**Core stack:** Python · FastAPI · Django · AWS (EC2, ECS, SQS, ASG, RDS) · Docker · Kubernetes · PostgreSQL · Redis · RabbitMQ · Celery
-
-**Currently:** Leading backend and infrastructure systems at [Yodeck](https://www.yodeck.com)
+Comfortable in Linux environments, I focus on distributed services, async processing, and making things behave predictably under real-world conditions. Outside of that, I’m interested in security, systems programming, and hardware — areas I keep coming back to.
 
 ---
 
-### What I work on
+## current interests
 
-- Distributed systems and high-throughput backend services
-- AWS infrastructure automation and autoscaling
-- CI/CD pipelines and containerized deployments
-- Performance optimization and large-scale refactors
-- Systems Programming
-
+* event-driven systems that hold up under load
+* kubernetes beyond the happy path
+* ai agents that operate in production
 
 ---
 
-### Public projects
+## selected projects
 
-- [pyRanoid](https://github.com/omnone/pyRanoid) — AES-256 encryption + steganographic embedding in Python
-- [CHORD-Simulation](https://github.com/omnone/CHORD-Simulation) — Chord DHT protocol simulation in Python
+**pyRanoid**
+encryption + steganography — hiding encrypted payloads inside images
+
+**CHORD-Simulation**
+exploring distributed hash tables, failure, and consistency
 
 ---
 
-### Get in touch
+## how I think
 
+* simple systems scale better
+* async when it matters
+* observability is not optional
+* performance is a feature
+
+---
 📬 github.com.disarm005@passmail.net · [LinkedIn](https://www.linkedin.com/in/kbourantas) · [Website](https://omnone.github.io)
